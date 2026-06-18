@@ -191,11 +191,6 @@ FROM Inventory;
 
 ---
 
-## Author
-
-**Murad**
-Computer Science Student (Cloud Engineering & DevOps)
-
 ### Skills Demonstrated
 
 * SQL Database Design
